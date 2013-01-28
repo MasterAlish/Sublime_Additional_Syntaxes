@@ -28,7 +28,7 @@
 			<key>match</key>
 			<string>^[\s]*[\.].*[\s]*$</string>
 			<key>name</key>
-			<string>entity.</string>
+			<string>entity.name.tag.heading.textile</string>
 		</dict>				
 		<dict>
 			<key>match</key>
