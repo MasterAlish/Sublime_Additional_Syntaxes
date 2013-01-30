@@ -7,5 +7,6 @@ for Mac:
 
 for Linux:
 	1. Copy the .sublime-package file into Sublime's Pristine Packages directory
-	{[Sublime installation Path]/Pristine\ Packages/}
+	 {[Sublime installation Path]/Pristine\ Packages/}
 	2. Restart Sublime Text 2
+	3. If you got error about .cache remove directory ~/.config/sublime-text-2  and Restart Sublime Text 2
